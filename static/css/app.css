@@ -1,0 +1,13 @@
+h2 {
+    font-weight: bold;
+    font-size: 32 px;
+    color: black;
+}
+
+.label {
+    text-align: right;
+}
+
+.error {
+    color: red;
+}
